@@ -1,4 +1,5 @@
 <?php
-echo "<h2>IT@KMITL</h2>";
-echo "Hello IT18<br>";
+echo "<h2>Hello</h2>";
+echo "My Name is Butthachai Arom<br>";
+echo "My Nickname is Tee<br>";
 ?>
