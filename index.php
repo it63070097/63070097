@@ -1,28 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Hello</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-</head>
-<body>
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-6">
-				<img src="img/creative/creative7.jpg" class="img-fluid">
-			</div>
-			<div class="col-sm-3">
-					<div class="row"> <img src="img/work/work.jpg" class="img-fluid" width="95%" height="100%" /> </div>
-					<div class="row"> <img src="img/work/work2.jpg" class="img-fluid" width="95%" height="100%" /> </div>
-					<div class="row"> <img src="img/work/work5.jpg" class="img-fluid" width="95%" height="100%" /> </div>
-			</div>
-			<div class="col-sm-3">
-				<div class="row"> <img src="img/creative/creative8.jpg" width="271" height="360" /> </div>
-				<div class="row"> <img src="img/work/work6.jpg" class="img-fluid" width="95%" 	height="100%" /> </div>
-			</div>
-        </div>
-    </div> <!-- Close container -->
-</body>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Hello world</title>
+    </head>
+    <body>
+        <h1>Hello</h1>
+        <p>My Name Butthachai Arom</p>
+        <p>My Nickname Tee</p>
+        <img src="hotdog.jpg">
+        <br>
+        <img src="hamburger.jpg">
+        <br>
+        <a href="https://pantip.com/">Click Web</a>
+        <h2>Fun :)</h2>
+        <ul>
+            <li><p>ท่านผู้โดยสารทุกท่านโปรดทราบขณะนี้เครื่องบินของเราที่จะบินไปปารากวัย</p> 
+                <p>พร้อมที่จะออกเดินทางแล้วนะครับและขอให้ผู้โดยสารทุกท่านวางใจในสายการบินของเราได้ </p>
+                <p>เพราะถึงแม้ว่าเครื่องบินของเราจะเก่าแต่นักบินของเราก็ยังใหม่อยู่ครับ</p>
+                <p>ขำหน่อยนะครับ555555</p> 
+            </li>
+        </ul>
+    </body>
 </html>
