@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 </head>
 <body>
-  <form action = "edit.php" method = "post" id="CommentForm" >
+  <form action = "edit2.php" method = "post" id="CommentForm" >
     What name you want to change?:<br>
     <input type="text" name = "name" id="idName" placeholder="Enter Name"> <br>
     New emotion:<br>
