@@ -24,7 +24,7 @@ $res = mysqli_query($conn, 'SELECT * FROM guestbook');
         <p class="ex1"><h1><center>What are your doing?</center></h1></p>
     </div>
   <table width="800" border="1" class="table table-white table-hover table-striped" class="center" >
-    <thead class="thead-dark">
+    <thead class="bg-info">
     <tr class="active">
       <th width="200"> <div align="center">Name</div></th>
       <th width="500"> <div align="center">Your doing???</div></th>
