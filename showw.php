@@ -29,8 +29,8 @@ $res = mysqli_query($conn, 'SELECT * FROM guestbook');
       <th width="200"> <div align="center">ชื่อสิ้นค้า</div></th>
       <th width="200"> <div align="center">ราคาต่ออหน่วย</div></th>
       <th width="200"> <div align="center">ส่วนลด(%)</div></th>
-      <th width="500"> <div align="center">ราคาหลังลด</div></th>
-      <th width="100"> <div align="center">การจัดการ</div></th>
+      <th width="200"> <div align="center">ราคาหลังลด</div></th>
+      <th width="200"> <div align="center">การจัดการ</div></th>
     </tr>
      </thead>
   <?php
