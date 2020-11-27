@@ -40,8 +40,8 @@ $res = mysqli_query($conn, 'SELECT * FROM guestbook');
     <tr>
       <td><center><?php echo $Result['Name'];?></center></td>
       <td><center><?php echo $Result['Comment'];?></center></td>
-      <td><center><?php echo $Result['Comment'];?></center></td>
-      <td><center><?php echo $Result['Comment'];?></center></td>
+      <td><center><?php echo $Result['Commentt'];?></center></td>
+      <td><center><?php echo $Result['Commenttt'];?></center></td>
       <td><center><a href="formedit.php"><input type="submit" value="Edit" class="btn-success"></a>&nbsp;&nbsp;<a href="fromdelete.php"><input type="submit" value="Delete"  class="btn-danger"></a></center></td>
     </tr>
   <?php
