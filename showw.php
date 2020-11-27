@@ -27,7 +27,7 @@ $res = mysqli_query($conn, 'SELECT * FROM guestbook');
     <thead class="bg-info">
     <tr class="active">
       <th width="200"> <div align="center">ชื่อสิ้นค้า</div></th>
-      <th width="200"> <div align="center">ราคาต่ออหน่วย</div></th>
+      <th width="200"> <div align="center">ราคาต่อหน่วย</div></th>
       <th width="200"> <div align="center">ส่วนลด(%)</div></th>
       <th width="200"> <div align="center">ราคาหลังลด</div></th>
       <th width="200"> <div align="center">การจัดการ</div></th>
